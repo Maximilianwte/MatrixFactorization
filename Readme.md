@@ -1,6 +1,6 @@
 # Recommender Systems
 
-Simple Algorithm Playground for Item Recommender Systems using Pandas and Numpy.
+Implementation for Recommender Systems using Python with Numpy & Pandas. Mainly focusing on matrix factorization techniques.
 
 ## Notes
 
